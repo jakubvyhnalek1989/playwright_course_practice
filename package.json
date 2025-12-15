@@ -1,0 +1,22 @@
+{
+  "name": "playwright_course_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakubvyhnalek1989/playwright_course_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakubvyhnalek1989/playwright_course_practice/issues"
+  },
+  "homepage": "https://github.com/jakubvyhnalek1989/playwright_course_practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.2"
+  }
+}
